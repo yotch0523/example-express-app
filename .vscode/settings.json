@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9c56780d-0ec0-42a3-a1bb-649134ee98da/resourceGroups/rg-ghcicd/providers/Microsoft.Web/sites/azpy-example-express",
+    "appService.deploySubpath": "."
+}
